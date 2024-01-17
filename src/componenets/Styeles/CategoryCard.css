@@ -1,0 +1,48 @@
+.category-btn:nth-child(2) {
+  background-image: url('https://nooni-be87.kxcdn.com/nooni/wp-content/uploads/2023/04/13-2-450x572.jpg');
+  background-size: 100%;
+  object-fit: cover;
+}
+.category-btn:nth-child(2):hover {
+  background-image: url('https://nooni-be87.kxcdn.com/nooni/wp-content/uploads/2022/12/13-450x572.jpg');
+  transition: all 0.3s ease;
+  background-size: 100%;
+  object-fit: cover;
+}
+
+.category-btn:nth-child(3) {
+  background-image: url('https://nooni-be87.kxcdn.com/nooni/wp-content/uploads/2022/12/10-450x572.jpg');
+  background-size: 100%;
+  object-fit: cover;
+}
+
+.category-btn:nth-child(3):hover {
+  background-image: url('https://nooni-be87.kxcdn.com/nooni/wp-content/uploads/2022/12/11-450x572.jpg');
+  transition: all 0.3s ease;
+  background-size: 100%;
+  object-fit: cover;
+}
+
+.category-btn:nth-child(1) {
+  background-image: url('https://nooni-be87.kxcdn.com/nooni/wp-content/uploads/2023/04/02-4-450x572.jpg');
+  background-size: 100%;
+  object-fit: cover;
+}
+
+.category-btn:nth-child(1):hover {
+  background-image: url('https://nooni-be87.kxcdn.com/nooni/wp-content/uploads/2022/12/31-450x572.jpg');
+  transition: all 0.3s ease;
+  background-size: 100%;
+  object-fit: cover;
+}
+.category-btn:nth-child(4) {
+  background-image: url('https://nooni-be87.kxcdn.com/nooni/wp-content/uploads/2023/04/38-2-450x572.jpg');
+  background-size: 100%;
+  object-fit: cover;
+}
+.category-btn:nth-child(4):hover {
+  background-image: url('https://nooni-be87.kxcdn.com/nooni/wp-content/uploads/2023/04/03-2-450x572.jpg');
+  transition: all 0.3s ease;
+  background-size: 100%;
+  object-fit: cover;
+}

@@ -1,0 +1,13 @@
+.currentSlide {
+  transition-duration: 0.5s ease;
+  opacity: 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+.currentSlide.active {
+  transition-duration: 0.5s;
+  opacity: 1;
+  display: flex;
+  justify-content: space-between;
+}
